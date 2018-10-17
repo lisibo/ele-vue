@@ -4,9 +4,9 @@
 ## 项目截图
 
 <div align=center>
-	<img src="https://github.com/lisibo/ele-vue/edit/master/img/ele1.png" width="25%">
-	<img src="https://github.com/lisibo/ele-vue/edit/master/img/ele2.png" width="25%">
-  <img src="https://github.com/lisibo/ele-vue/edit/master/img/ele3.png" width="25%">
+	<img src="https://github.com/lisibo/ele-vue/blob/master/img/ele1.png" width="25%">
+	<img src="https://github.com/lisibo/ele-vue/blob/master/img/ele2.png" width="25%">
+  <img src="https://github.com/lisibo/ele-vue/blob/master/img/ele3.png" width="25%">
 </div>
 
 ## 主要技术栈
@@ -36,7 +36,7 @@
 ## 组件关系
 
 <div align=center>
-	<img src="https://github.com/lisibo/ele-vue/edit/master/img/ele4.png" width="50%">
+	<img src="https://github.com/lisibo/ele-vue/blob/master/img/ele4.png" width="50%">
 </div>
 
 ```
@@ -73,7 +73,7 @@ main.js---- 入口文件的 js 逻辑，在 webpack 打包之后将被注入到 
 
 想写的详细一点，另开一篇
 
-### [项目总结 & 问题](https://github.com/nanyang24/eleme-vue/blob/master/conclusion.md)
+### [项目总结 & 问题](https://github.com/lisibo/ele-vue/blob/master/conclusion.md)
 
 #### 如果觉得对您有帮助，您可以在右上角给我个star支持一下，谢谢！
 
