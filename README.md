@@ -81,12 +81,12 @@ main.js---- 入口文件的 js 逻辑，在 webpack 打包之后将被注入到 
 
 ``` bash
 # clone
-git clone git@github.com:nanyang24/eleme-vue.git
+git clone https://github.com/lisibo/ele-vue.git
 
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081
 npm run dev
 
 # build for production with minification
